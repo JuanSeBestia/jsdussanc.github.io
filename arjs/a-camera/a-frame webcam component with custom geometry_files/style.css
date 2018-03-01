@@ -1,0 +1,16 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: black;
+  padding: 0;
+  margin: 0
+}
