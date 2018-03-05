@@ -5,7 +5,8 @@ You can view in https://jsdussanc.github.io/
 #### basic with [heroMark](https://github.com/jeromeetienne/AR.js/blob/master/README.md) 
 #### [example 1](https://jsdussanc.github.io/arjs/)
 #### [example 2](https://brash-feels.glitch.me/)
-#### [vasi a-frame](https://jsdussanc.github.io/arjs/2.html)
+#### [basic a-frame](https://jsdussanc.github.io/arjs/2.html)
+#### [basic a-frame wiyh Sky](https://spangle-search.glitch.me/)
 ### fusion a-frame 
 #### [1](https://jsdussanc.github.io/arjs/3.html) 
 #### [2](https://jsdussanc.github.io/arjs/4.html) 
