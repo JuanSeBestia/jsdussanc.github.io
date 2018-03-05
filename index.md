@@ -6,7 +6,7 @@ You can view in https://jsdussanc.github.io/
 #### [example 1](https://jsdussanc.github.io/arjs/)
 #### [example 2](https://brash-feels.glitch.me/)
 #### [basic a-frame](https://jsdussanc.github.io/arjs/2.html)
-#### [basic a-frame wiyh Sky](https://spangle-search.glitch.me/)
+#### [basic a-frame wiyh Sky](https://spangle-search.glitch.me/) https://cdn.glitch.com/e6225ccd-c32e-4cf8-b039-e78814a8cb78%2Fbg-3.jpg
 ### fusion a-frame 
 #### [1](https://jsdussanc.github.io/arjs/3.html) 
 #### [2](https://jsdussanc.github.io/arjs/4.html) 
