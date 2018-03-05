@@ -15,6 +15,8 @@ You can view in https://jsdussanc.github.io/
 #### [6](https://jsdussanc.github.io/arjs/8.html)
 #### [7](https://jsdussanc.github.io/arjs/8.html)
 
+## Other webcams implementations 
+## TREE js texture webcam static [example](https://stemkoski.github.io/Three.js/Webcam-Motion-Detection-Texture.html)
 ### Other extensions
 #### [a-passthrough](https://jsdussanc.github.io/arjs/9.html)
 #### [a-camera](https://jsdussanc.github.io/arjs/a-camera/)
